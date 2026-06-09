@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- ===== HAND (behind camera) ===== -->
+
+    <!-- Palm visible below camera -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M34,66 L66,66 L66,76 Q66,80 62,80 L38,80 Q34,80 34,76 Z" />
+
+    <!-- Wrist / sleeve cuff -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M34,76 Q34,80 38,80 L62,80 Q66,80 66,76 L66,84 Q66,86 62,86 L38,86 Q34,86 34,84 Z" />
+
+    <!-- Thumb on left side (behind camera) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M30,48 Q22,48 22,55 Q22,62 30,62 Z" />
+    <!-- Thumb nail -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M24,52 Q22,52 22,55 Q22,58 24,58 Z" />
+
+    <!-- Index finger -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M36,42 L36,32 Q36,26 40,26 Q44,26 44,32 L44,42 Z" />
+    <!-- Middle finger (tallest) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M45,42 L45,29 Q45,23 49,23 Q53,23 53,29 L53,42 Z" />
+    <!-- Ring finger -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M54,42 L54,31 Q54,26 58,26 Q62,26 62,31 L62,42 Z" />
+    <!-- Pinky (shorter) -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M63,42 L63,34 Q63,30 66,30 Q69,30 69,34 L69,42 Z" />
+
+    <!-- Finger joint creases -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M37,35 L43,35"
+        android:strokeColor="#F9A825"
+        android:strokeWidth="0.7" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M46,33 L52,33"
+        android:strokeColor="#F9A825"
+        android:strokeWidth="0.7" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M55,35 L61,35"
+        android:strokeColor="#F9A825"
+        android:strokeWidth="0.7" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M64,37 L68,37"
+        android:strokeColor="#F9A825"
+        android:strokeWidth="0.7" />
+
+    <!-- ===== CAMERA ===== -->
+
+    <!-- Camera top housing / viewfinder bump -->
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M42,37 L58,37 Q61,37 61,40 L61,42 L39,42 L39,40 Q39,37 42,37 Z" />
+
+    <!-- Camera main body -->
+    <path
+        android:fillColor="#455A64"
+        android:pathData="M30,42 L70,42 Q74,42 74,46 L74,62 Q74,66 70,66 L30,66 Q26,66 26,62 L26,46 Q26,42 30,42 Z" />
+
+    <!-- Lens outer ring -->
+    <path
+        android:fillColor="#78909C"
+        android:pathData="M50,54 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+
+    <!-- Lens middle ring -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M50,54 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0" />
+
+    <!-- Lens inner glass -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M50,54 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+
+    <!-- Lens glare highlight -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M46,50 m-2.5,0 a2.5,2 0 1,0 5,0 a2.5,2 0 1,0 -5,0" />
+
+    <!-- Flash circle -->
+    <path
+        android:fillColor="#FDD835"
+        android:pathData="M65,39 m-2.5,0 a2.5,2.5 0 1,0 5,0 a2.5,2.5 0 1,0 -5,0" />
+
+    <!-- ===== SQUEEZE PRESSURE LINES ===== -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M75,47 Q78,49 75,51"
+        android:strokeColor="#90A4AE"
+        android:strokeWidth="1"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M75,55 Q78,57 75,59"
+        android:strokeColor="#90A4AE"
+        android:strokeWidth="1"
+        android:strokeLineCap="round" />
+
+    <!-- ===== JUICE DROPS (spraying right) ===== -->
+
+    <!-- Large drop -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M81,42 Q83,36 85,42 Q85,48 83,48 Q81,48 81,42 Z" />
+
+    <!-- Medium drop -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M83,56 Q85,51 87,56 Q87,61 85,61 Q83,61 83,56 Z" />
+
+    <!-- Small drop -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M79,66 Q80,63 82,66 Q82,70 80.5,70 Q79,70 79,66 Z" />
+
+    <!-- Splash dots -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M79,36 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M88,50 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M77,73 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+
+</vector>

@@ -1,0 +1,57 @@
+==========================================
+ ImageSquee - Google Play Store Listing
+==========================================
+
+APP TITLE (max 30 chars):
+ImageSquee
+
+SHORT DESCRIPTION (max 80 chars):
+Shrink, compress, and strip metadata from photos before sharing. Fast & private.
+
+FULL DESCRIPTION (max 4000 chars):
+ImageSquee sits quietly in your Share menu, ready to squeeze your photos down to size before they reach their destination.
+
+HOW IT WORKS
+1. Select one or more photos in any app
+2. Tap Share and choose ImageSquee
+3. Your images are instantly resized, compressed, and stripped of metadata
+4. A new Share menu appears so you can send the optimized images wherever you like
+
+That's it. No extra steps, no clutter, no account required.
+
+WHY USE IMAGESQUEE?
+- Save mobile data by sharing smaller files
+- Protect your privacy by stripping GPS coordinates, camera info, timestamps, and other EXIF metadata from every photo
+- Send images faster over slow connections
+- Avoid file size limits on messaging apps and email
+
+FEATURES
+- Supports single or multi-image sharing from any app
+- Output to WebP or JPEG format
+- Adjustable target resolution: 480p, 720p, 1080p, 1440p, or 4K
+- Compression quality slider from 1% to 100%
+- Full EXIF/metadata stripping (location, camera model, timestamps, and more)
+- Minimal processing overlay — no app switching or waiting screens
+- Settings are saved and remembered between uses
+- No ads. No tracking. No internet permission. Your photos stay on your device.
+
+PRIVACY
+ImageSquee does not request internet access. It cannot upload, transmit, or share your photos with anyone. Processing happens entirely on your device. Metadata stripping removes GPS coordinates, camera make/model, timestamps, artist info, and other identifying data.
+
+PAID, NOT FREE
+This is a one-time purchase with no ads, no in-app purchases, and no subscriptions. You pay once and own it forever.
+
+Requires Android 12 or later.
+
+------------------------------------------
+
+CATEGORY: Photography
+
+TAGS / KEYWORDS:
+image compressor, photo resize, metadata remover, exif stripper, privacy, share, compress photos, reduce file size, webp converter, image optimizer
+
+CONTENT RATING: Everyone
+
+CONTACT EMAIL: (your developer email)
+
+PRIVACY POLICY URL: (required for Play Store — you will need to host a simple privacy policy page stating the app collects no data and requires no internet)
